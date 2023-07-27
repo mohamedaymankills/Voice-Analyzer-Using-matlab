@@ -6,7 +6,7 @@ Users can explore statistical summaries and contour plots of the fundamental fre
 
 To use the Voice Analyzer, users simply load an audio file, select desired analysis options, and visualize the results using interactive graphs and plots. The project's modular structure allows easy integration of new features and contributions.
 
- 
+ ![image1](https://github.com/mohamedaymankills/Voice-Analyzer-Using-matlab/blob/main/v1.jpg?raw=true)
  # Overview
  The Voice Analyzer is a MATLAB-based project designed to analyze and process audio recordings of human voices. This project aims to provide a comprehensive tool for studying voice characteristics, such as pitch, intensity, formants, and other relevant parameters, which are essential in various fields, including speech pathology, linguistics, and vocal performance evaluation.
 
