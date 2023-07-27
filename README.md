@@ -31,6 +31,7 @@ Statistical Analysis: Users can obtain statistical summaries of various voice pa
 
 Exporting Results: Analyzed data, graphs, and summary reports can be exported for further analysis or documentation.
 
+![image2](https://github.com/mohamedaymankills/Voice-Analyzer-Using-matlab/blob/main/v3.jpg?raw=true)
 # How to Use
 Launch the Voice Analyzer application in MATLAB.
 
